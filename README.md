@@ -1,5 +1,6 @@
 <div><h1>😎 CHOI HAN GYEOL</h1></div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksruf3414)](https://solved.ac/gksruf3414/)  
+
+[![solved.acprofile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksruf3414)](https://solved.ac/gksruf3414)
 
 <div><h1>📚 STACK</h1></div>
 
