@@ -2,6 +2,12 @@
 
 [![solved.acprofile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksruf3414)](https://solved.ac/gksruf3414)
 
+### 🙋‍♀️ About me
+- 아직 열심히 공부하고 있는 웹 개발자입니다. 
+- Spring에 대해 열심히 공부 중입니다 !
+- 데이터베이스에 관심이 많습니다. 
+
+
 <div><h1>📚 STACK</h1></div>
 
 ### Language
@@ -23,3 +29,4 @@
 ### Management
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)
