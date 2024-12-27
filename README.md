@@ -31,3 +31,8 @@
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)
+
+## 🖥️ Git Status
+
+![GitStatus](https://github-readme-stats.vercel.app/api?username=onegyeol&show_icons=true&theme=tokyonight&hide=issues&line_height=24&include_all_commits=True&hide_border=True)
+![git](https://github-readme-stats.vercel.app/api/top-langs/?username=onegyeol&layout=compact&theme=tokyonight&langs_count=6&hide_border=True&card_width=260)
