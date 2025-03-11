@@ -36,6 +36,5 @@
 ![gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)
 
 ## 🖥️ Git Stats
-
-![GitStatus](https://github-readme-stats.vercel.app/api?username=onegyeol&show_icons=true&theme=tokyonight&hide=issues&line_height=24&include_all_commits=True&hide_border=True)
+![GitStatus](https://github-readme-stats.vercel.app/api?username=onegyeol&show_icons=true&theme=tokyonight&hide=issues&line_height=24&hide_border=True)
 ![git](https://github-readme-stats.vercel.app/api/top-langs/?username=onegyeol&layout=compact&theme=tokyonight&langs_count=6&hide_border=True&card_width=260)
