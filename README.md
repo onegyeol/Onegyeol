@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A8C686&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A8C686&height=130&section=header" />
+<img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=A8C686&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hangyeol's+Github" />
 
 ## 🙋‍♀️ About me
 - 사람들에게 도움을 주고 경험을 얻을 수 있는 서비스를 만들고 싶습니다.
@@ -38,4 +39,4 @@
 ![GitStatus](https://github-readme-stats.vercel.app/api?username=onegyeol&show_icons=true&theme=tokyonight&hide=issues&line_height=24&hide_border=True)
 ![git](https://github-readme-stats.vercel.app/api/top-langs/?username=onegyeol&layout=compact&theme=tokyonight&langs_count=6&hide_border=True&card_width=260)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A8C686&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A8C686&height=130&section=footer" />
