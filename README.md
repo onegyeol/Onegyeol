@@ -1,13 +1,11 @@
-<div><h1>😎 CHOI HAN GYEOL</h1></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A8C686&height=150&section=header" />
 
-[![solved.acprofile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksruf3414)](https://solved.ac/gksruf3414)
-
-### 🙋‍♀️ About me
+## 🙋‍♀️ About me
 - 사람들에게 도움을 주고 경험을 얻을 수 있는 서비스를 만들고 싶습니다.
 - 아직 열심히 공부하고 있는 웹 개발자입니다. 
 - 백엔드, 데이터베이스에 관심이 많습니다.
 
-<div><h1>📚 STACK</h1></div>
+<div><h2>📚 STACK</h2></div>
 
 ### Language
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -39,3 +37,5 @@
 ## 🖥️ Git Stats
 ![GitStatus](https://github-readme-stats.vercel.app/api?username=onegyeol&show_icons=true&theme=tokyonight&hide=issues&line_height=24&hide_border=True)
 ![git](https://github-readme-stats.vercel.app/api/top-langs/?username=onegyeol&layout=compact&theme=tokyonight&langs_count=6&hide_border=True&card_width=260)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A8C686&height=150&section=footer" />
