@@ -36,8 +36,11 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 🖥️ Git Stats
-![GitStatus](https://github-readme-stats.vercel.app/api?username=onegyeol&show_icons=true&theme=tokyonight&hide=issues&line_height=24&hide_border=True)
-![git](https://github-readme-stats.vercel.app/api/top-langs/?username=onegyeol&layout=compact&theme=tokyonight&langs_count=6&hide_border=True&card_width=260)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A8C686&height=130&section=footer" />
+## Git Farm
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=onegyeol&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/onegyeol"
+  width="600"
+  height="300"
+/>
+</a>
