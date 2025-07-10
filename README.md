@@ -37,7 +37,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## My Github Farm
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=onegyeol&utm_content=grass">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=onegyeol&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/onegyeol"
   width="600"
